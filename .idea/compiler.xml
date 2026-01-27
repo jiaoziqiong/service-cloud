@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="luohuo-im-biz" />
+        <module name="luohuo-ws-biz" />
+        <module name="luohuo-oauth-boot-impl" />
+        <module name="luohuo-im-cloud-impl" />
+        <module name="luohuo-base-boot-impl" />
+        <module name="luohuo-oauth-entity" />
+        <module name="luohuo-ai-server" />
+        <module name="luohuo-login-user-resolver" />
+        <module name="luohuo-gateway-biz" />
+        <module name="luohuo-common" />
+        <module name="luohuo-oauth-server" />
+        <module name="luohuo-ai-entity" />
+        <module name="luohuo-model" />
+        <module name="luohuo-system-entity" />
+        <module name="luohuo-oauth-controller" />
+        <module name="luohuo-system-boot-impl" />
+        <module name="luohuo-oauth-cloud-impl" />
+        <module name="luohuo-ai-api" />
+        <module name="luohuo-ai-boot-impl" />
+        <module name="luohuo-generator-server" />
+        <module name="luohuo-ai-biz" />
+        <module name="luohuo-ws-entity" />
+        <module name="luohuo-generator-controller" />
+        <module name="luohuo-login-user-cloud-impl" />
+        <module name="luohuo-base-biz" />
+        <module name="luohuo-monitor" />
+        <module name="luohuo-base-api" />
+        <module name="luohuo-system-server" />
+        <module name="luohuo-gateway-server" />
+        <module name="luohuo-im-api" />
+        <module name="luohuo-file-sdk" />
+        <module name="luohuo-system-api" />
+        <module name="luohuo-job-executor" />
+        <module name="luohuo-base-server" />
+        <module name="luohuo-router" />
+        <module name="luohuo-system-biz" />
+        <module name="luohuo-config-sdk" />
+        <module name="luohuo-base-entity" />
+        <module name="luohuo-im-controller" />
+        <module name="luohuo-login-user-boot-impl" />
+        <module name="luohuo-sa-token-ext" />
+        <module name="luohuo-data-scope-sdk" />
+        <module name="luohuo-im-entity" />
+        <module name="luohuo-base-controller" />
+        <module name="luohuo-im-server" />
+        <module name="luohuo-oauth-api" />
+        <module name="luohuo-generator-entity" />
+        <module name="luohuo-boot-server" />
+        <module name="luohuo-ws-server" />
+        <module name="luohuo-generator-biz" />
+        <module name="luohuo-base-cloud-impl" />
+        <module name="luohuo-system-controller" />
+        <module name="luohuo-ai-cloud-impl" />
+        <module name="luohuo-database-mode" />
+        <module name="luohuo-system-cloud-impl" />
+        <module name="luohuo-im-boot-impl" />
+        <module name="luohuo-oauth-biz" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="luohuo-ai" options="-parameters" />
+      <module name="luohuo-ai-api" options="-parameters" />
+      <module name="luohuo-ai-biz" options="-parameters" />
+      <module name="luohuo-ai-boot-impl" options="-parameters" />
+      <module name="luohuo-ai-cloud-impl" options="-parameters" />
+      <module name="luohuo-ai-entity" options="-parameters" />
+      <module name="luohuo-ai-facade" options="-parameters" />
+      <module name="luohuo-ai-server" options="-parameters" />
+      <module name="luohuo-base" options="-parameters" />
+      <module name="luohuo-base-api" options="-parameters" />
+      <module name="luohuo-base-biz" options="-parameters" />
+      <module name="luohuo-base-boot-impl" options="-parameters" />
+      <module name="luohuo-base-cloud-impl" options="-parameters" />
+      <module name="luohuo-base-controller" options="-parameters" />
+      <module name="luohuo-base-entity" options="-parameters" />
+      <module name="luohuo-base-facade" options="-parameters" />
+      <module name="luohuo-base-server" options="-parameters" />
+      <module name="luohuo-boot-server" options="-parameters" />
+      <module name="luohuo-common" options="-parameters" />
+      <module name="luohuo-config-sdk" options="-parameters" />
+      <module name="luohuo-data-scope-sdk" options="-parameters" />
+      <module name="luohuo-database-mode" options="-parameters" />
+      <module name="luohuo-dependencies-parent" options="-parameters" />
+      <module name="luohuo-file-sdk" options="-parameters" />
+      <module name="luohuo-gateway" options="-parameters" />
+      <module name="luohuo-gateway-biz" options="-parameters" />
+      <module name="luohuo-gateway-server" options="-parameters" />
+      <module name="luohuo-generator" options="-parameters" />
+      <module name="luohuo-generator-biz" options="-parameters" />
+      <module name="luohuo-generator-controller" options="-parameters" />
+      <module name="luohuo-generator-entity" options="-parameters" />
+      <module name="luohuo-generator-server" options="-parameters" />
+      <module name="luohuo-im" options="-parameters" />
+      <module name="luohuo-im-api" options="-parameters" />
+      <module name="luohuo-im-biz" options="-parameters" />
+      <module name="luohuo-im-boot-impl" options="-parameters" />
+      <module name="luohuo-im-cloud-impl" options="-parameters" />
+      <module name="luohuo-im-controller" options="-parameters" />
+      <module name="luohuo-im-entity" options="-parameters" />
+      <module name="luohuo-im-facade" options="-parameters" />
+      <module name="luohuo-im-server" options="-parameters" />
+      <module name="luohuo-job-executor" options="-parameters" />
+      <module name="luohuo-login-user-boot-impl" options="-parameters" />
+      <module name="luohuo-login-user-cloud-impl" options="-parameters" />
+      <module name="luohuo-login-user-facade" options="-parameters" />
+      <module name="luohuo-login-user-resolver" options="-parameters" />
+      <module name="luohuo-model" options="-parameters" />
+      <module name="luohuo-monitor" options="-parameters" />
+      <module name="luohuo-oauth" options="-parameters" />
+      <module name="luohuo-oauth-api" options="-parameters" />
+      <module name="luohuo-oauth-biz" options="-parameters" />
+      <module name="luohuo-oauth-boot-impl" options="-parameters" />
+      <module name="luohuo-oauth-cloud-impl" options="-parameters" />
+      <module name="luohuo-oauth-controller" options="-parameters" />
+      <module name="luohuo-oauth-entity" options="-parameters" />
+      <module name="luohuo-oauth-facade" options="-parameters" />
+      <module name="luohuo-oauth-server" options="-parameters" />
+      <module name="luohuo-public" options="-parameters" />
+      <module name="luohuo-router" options="-parameters" />
+      <module name="luohuo-sa-token-ext" options="-parameters" />
+      <module name="luohuo-support" options="-parameters" />
+      <module name="luohuo-system" options="-parameters" />
+      <module name="luohuo-system-api" options="-parameters" />
+      <module name="luohuo-system-biz" options="-parameters" />
+      <module name="luohuo-system-boot-impl" options="-parameters" />
+      <module name="luohuo-system-cloud-impl" options="-parameters" />
+      <module name="luohuo-system-controller" options="-parameters" />
+      <module name="luohuo-system-entity" options="-parameters" />
+      <module name="luohuo-system-facade" options="-parameters" />
+      <module name="luohuo-system-server" options="-parameters" />
+      <module name="luohuo-ws" options="-parameters" />
+      <module name="luohuo-ws-biz" options="-parameters" />
+      <module name="luohuo-ws-entity" options="-parameters" />
+      <module name="luohuo-ws-server" options="-parameters" />
+    </option>
+  </component>
+</project>
