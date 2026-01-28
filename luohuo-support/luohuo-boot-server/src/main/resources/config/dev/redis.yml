@@ -3,7 +3,7 @@ luohuo:
     type: REDIS
     serializer-type: JACK_SON
   redis:
-    ip: 192.168.1.37
+    ip: 10.10.10.78
     port: 16379
     password: luo.123456
     database: 1
