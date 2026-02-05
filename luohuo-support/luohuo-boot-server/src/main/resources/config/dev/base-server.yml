@@ -57,13 +57,14 @@ fdfs:
 spring:
   mail:
     # 网易邮箱SMTP服务器
-    host: smtp.163.com
+    host: smtp.qq.com
     # SSL端口
     port: 465
     # 发件人邮箱
-    username: nongyehon1g919@163.com
+    username: 1481297311@qq.com
     # 邮箱SMTP授权码
-    password: YZ7ju1X6W11WSbx2e
+    password: dskevexnrzdhjjdi
+    protocol: smtps
     properties:
       mail:
         smtp:
